@@ -15,7 +15,7 @@ nes (50 sloc)  1.3 KB
  * @false: Equals 0.
  * @true: Equals 1.
  *
- * Authors: Francesca Lynn Asiedu & Lawrence Adams
+ * Author: Christabell Owusu
  */
 typedef enum bool
 {
